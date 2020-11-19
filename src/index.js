@@ -39,6 +39,7 @@ $(window).resize(() => checkWidth());
 $(document).ready(() => {
     scrollSidebar();
     checkWidth();
+    $('.waves').css({height: $(document).height()});
 });
 
 

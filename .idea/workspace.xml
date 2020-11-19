@@ -3,37 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7547ab89-4ee3-433f-a4e0-8e926e233283" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/instagramm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/logotype.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sign_in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/vk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/wave1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/wave2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/wave3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/youtube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/instagramm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/logotype.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/sign_in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/vk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/wave1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/wave2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/wave3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/src/assets/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scripts.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/js_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/js_1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +53,7 @@
       <workItem from="1605360284897" duration="4606000" />
       <workItem from="1605415602767" duration="26640000" />
       <workItem from="1605513667833" duration="2318000" />
+      <workItem from="1605711873406" duration="4495000" />
     </task>
     <servers />
   </component>
